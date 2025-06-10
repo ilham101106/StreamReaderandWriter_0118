@@ -39,6 +39,8 @@ int main(){
             //dan menampilkan disini
             cout<<baris<<'\n';
         }
+        //tutup file setelah selesai
+        infile.close();
 
     }
 
